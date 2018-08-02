@@ -92,7 +92,7 @@ if __name__ == '__main__':
 	de_name = raw_input()
 	for i in range(3):
 		if not de_name:
-			print "Please run a program again."
+			print "Please run this program again."
 			print "\--------------------------"
 			de_name = raw_input()
 			if i == 2:
