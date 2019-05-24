@@ -10,3 +10,5 @@ I use FuelSDK-Python-Wrapper, which simplify and improve the FuelSDK for Salesfo
 This code is to extract DataExtension Records.<br>
 Output the result to csv.<br>
 Data Extension Name is only English.
+
+you need to set some info for your SMC instance.
