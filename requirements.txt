@@ -2,5 +2,5 @@ FuelSDK==0.9.3
 FuelSDKWrapper==0.2.0
 PyJWT==0.1.9
 requests==2.20.0
-suds==0.4
+suds==1.0.0
 suds-jurko==0.6
